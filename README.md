@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Javascript-Debouncing [Live Demo](https://thisisrajkumar.github.io/Javascript-Debouncing/).
+Javascript-Debouncing [Live Demo](https://imtechieraj.github.io/Javascript-Debouncing/).
 (While check the demo : Open 1. inspect -> 2. network tab)
 
 Debouncing is used for optimizing the performance of a web app.
